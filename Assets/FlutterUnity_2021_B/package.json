@@ -1,0 +1,6 @@
+{
+  "name": "com.motivvehealth.flutterunity2021.withjson",
+  "version": "2.0.2",
+  "displayName": "FlutterUnity_2021_b",
+  "description": "This package handles Android and iOS builds from Unity to Flutter and communication between Unity and Flutter. Source: https://github.com/juicycleff/flutter-unity-view-widget (VERSION WITH Newtonsoft.Json)"
+}
